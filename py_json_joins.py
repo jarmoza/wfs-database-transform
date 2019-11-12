@@ -1414,7 +1414,8 @@ def main():
 	# json_file_date = "20180409"
 	# json_file_date = "20180613"
 	# json_file_date = "20181014"
-	json_file_date = "20190830"
+	# json_file_date = "20190830"
+	json_file_date = "20191025"
 
 	# JSON paths
 	input_path = os.getcwd() + os.sep + "input" + os.sep + json_file_date + os.sep
@@ -1482,7 +1483,7 @@ def main():
 	# Add continent count to collection stats
 	scrapbooks.save_continent_counts()
 
-	# 4. Output one amalgamated json per book
+	# 4. Output one collection json and amalgamated json per book
 	scrapbooks.output(pages, output_path)
 
 	# 5. Output dictionary json for people, places, sources
