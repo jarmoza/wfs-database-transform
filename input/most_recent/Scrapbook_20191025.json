@@ -1,0 +1,64 @@
+{
+"RECORDS":[
+{
+"Scrapbook_Id":"1",
+"Scrapbook_number":"1",
+"Scrapbook_pg_range":"215c-403b",
+"Total Number of Pages in Scrapbook":"190",
+"Number of Pages included in our Subset":"51",
+"Scrapbook_date_range":"1931-1953",
+"Scrapbook_height_cm":"32",
+"Scrapbook_width_cm":"20",
+"Scrapbook_depth_cm":"4",
+"Scrapbook_cover_image":"Y",
+"Scrapbook_materiality_desc":"Course navy blue cover with faux-leather burgundy binding. There is a black and white photograph of a lake and mountains pasted onto the front cover likely clipped from a  magazine (possibly showing the Highlands or the Lake District). The photograph shows signs of wear, including a small hole worn in the middle of the photograph. Inside the front cover, a small sticker states that the book was made by R.B. Thomson Stationer, Printer and Bookbinder, 12 West Nile Street, Glasgow. The scrapbook paper is ruled with pink and blue lines (blue ruling lines running horizontally and pink margins). The pages are bound in groups and have mottled edges.",
+"Scrapbook_notes":"Although Morgan gives this book that date range 1931-1953, he also notes the early materials for this book were rearranged from small blotters in 1937.",
+"Scrapbook_cover_image_ids":"MS_MORGAN_C_1_Back Binding; MS_MORGAN_C_1_Front Binding; MS_MORGAN_C_1_Spine"
+},
+{
+"Scrapbook_Id":"2",
+"Scrapbook_number":"12",
+"Scrapbook_pg_range":"2239c-2559a",
+"Total Number of Pages in Scrapbook":"320",
+"Number of Pages included in our Subset":"54",
+"Scrapbook_date_range":"1954-1960",
+"Scrapbook_height_cm":"38.5",
+"Scrapbook_width_cm":"26.5",
+"Scrapbook_depth_cm":"7.5",
+"Scrapbook_cover_image":"N",
+"Scrapbook_materiality_desc":"Textured navy blue cover with burgundy cloth corners and a burgundy cloth spine binding. There are no images on the cover. The spine shows slight signs of wear. Inside the pages are unruled and show various patterned discolourations that indicate the book may have held photographs or clippings in a different arrangement before Morgan decided upon the current layout.",
+"Scrapbook_notes":"",
+"Scrapbook_cover_image_ids":"Edward_Morgan_Scrapbook_000.tif, Edward_Morgan_Scrapbook_162.tif, Edward_Morgan_Scrapbook_163.tif"
+},
+{
+"Scrapbook_Id":"3",
+"Scrapbook_number":"9",
+"Scrapbook_pg_range":"1487a-1807a",
+"Total Number of Pages in Scrapbook":"320",
+"Number of Pages included in our Subset":"50",
+"Scrapbook_date_range":"1948-1954",
+"Scrapbook_height_cm":"38.5",
+"Scrapbook_width_cm":"26.5",
+"Scrapbook_depth_cm":"9",
+"Scrapbook_cover_image":"Y",
+"Scrapbook_materiality_desc":"The book's front and back boards are covered by a green fabric piece in the center of each board and a faux-leather patterned burgundy cloth on the spine and corners. Pasted into the middle of the front cover is a black and white photograph of a little creature, likely a Galago, cut from a magazine on the front cover. The image shows signs of wear, as does the book's spine. Inside, the pages are unruled and the same green fabric from the front cover is used along the inside binding of the book.",
+"Scrapbook_notes":"pages 1531 and 1532 have not been digitized, and so do not appear in our subset for this scrapbook.",
+"Scrapbook_cover_image_ids":"MS_MORGAN_C_9_Back Binding.jpg, MS_MORGAN_C_9_Front Binding.jpg, MS_MORGAN_C_9_Spine.JPG"
+},
+{
+"Scrapbook_Id":"4",
+"Scrapbook_number":"6",
+"Scrapbook_pg_range":"795b-939a",
+"Total Number of Pages in Scrapbook":"144",
+"Number of Pages included in our Subset":"50",
+"Scrapbook_date_range":"1945-1953",
+"Scrapbook_height_cm":"31.5",
+"Scrapbook_width_cm":"19.7",
+"Scrapbook_depth_cm":"3.5",
+"Scrapbook_cover_image":"Y",
+"Scrapbook_materiality_desc":"This book has a cardboard cover, wrapped with brownish-orange material that resembles masking tape along the spine and at the opening edges. Morgan has created a collage piece on the front cover. The University of Glasgow tag, which on most of the Morgan scrapbooks is on an inside cover, appears here on the outside of the front cover below the collage. Inside, the paper is ruled paper with blue lines and the paper has started to yellow.",
+"Scrapbook_notes":"The collage on the front cover consists of a large black and white aerial photograph showing a snowy mountain scene and a large body of water, over which a large flock of birds is flying. Onto this image, Morgan has pasted a black and white photograph of what looks to be a pile of rubble that includes several statues, a black and white detail reproduction from Niclaus of Haguenau and Matthias Grünewald's Isenheim Altarpiece, which shows Mary, mother of God, in a white veil collapsing backwards into Saint John's arms, while another woman kneels with her hands held upwards and clasped in prayer, and an original black and white photograph that shows a man in hiking boots and summer outdoor wear sitting beside a large rock formation. \r\n\r\n\r\n",
+"Scrapbook_cover_image_ids":"MS_MORGAN_C_6_Back Binding.jpg, MS_MORGAN_C_6_Front Binding.jpg, MS_Morgan_C_6_Spine.jpg"
+}
+]
+}
